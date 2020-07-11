@@ -16,6 +16,6 @@ I am Harish Guda. I am an Assistant Professor with the Department of Supply Chai
 
 - :dog: Pronouns: He/him. 
 
-- :bird: See my [webpage](harishguda.me/about) for more details. 
+- :bird: See my [webpage](https://harishguda.me/about) for more details. 
 
 - :bike: I am passionate about making bike commutes mainstream. 
