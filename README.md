@@ -2,20 +2,23 @@
 
 I am Harish Guda. I am an Assistant Professor with the Department of Supply Chain Management at Arizona State University. 
 
-- :beetle: My research interests are broadly at the interface of Economics and Operations and Supply Chains. I address incentive and information issues in platforms/marketplaces, where a large number of agents interact. 
+- :mortar_board: My research interests are broadly at the interface of Economics and Operations and Supply Chain Management. I address incentive and information issues in platforms/marketplaces, where a large number of agents interact. 
 
-- :panda_face: I also teach courses in Supply Chain Analytics and Operations to full-time MBAs at ASU. 
+- :school_satchel: I also teach courses in Supply Chain Analytics and Operations to full-time MBAs at ASU. 
 
-- :monkey: I am a #rstats or `R` user, owing a lot to my prior experience with the Supply Chain Analytics group at Nordstrom. 
+- :bar_chart: I am a #rstats or `R` user, owing a lot to my prior experience with the Supply Chain Analytics group at Nordstrom. 
 
-- :bug: I am currently learning to better integrate `tidymodels` into my workflow, model incentive compatibility constraints for agents in a spatial marketplace and create content for a supply chain analytics course. 
+- :books: I am currently learning to better integrate `tidymodels` into my workflow, model incentive compatibility constraints for agents in a spatial marketplace and create content for a supply chain analytics course. 
 
-- :snail: I am looking for good case studies to teach operations planning and execution, and supply chain analytics. 
+- :scroll: I am looking for good case studies to teach operations planning and execution, and supply chain analytics. 
 
-- :penguin: Fun fact: I was once quoted by a local newspaper in a piece about a hoax threat. (Google it). 
+- :newspaper: Fun fact: I was once quoted by a local newspaper in a piece about a hoax threat. (Google it). 
 
-- :dog: Pronouns: He/him. 
+- :man: Pronouns: He/him. 
 
-- :bird: See my [webpage](https://harishguda.me/about) for more details. 
+- :mag: See my [webpage](https://harishguda.me/about) for more details. 
 
-- :bike: I am passionate about making bike commutes mainstream (again). 
+- :bicyclist: I am passionate about making bike commutes mainstream (again). 
+
+- :santa: Life mantra: As the wise economists say,
+> Internalize your externalities
