@@ -8,7 +8,7 @@ I am Harish Guda. I am an Assistant Professor with the Department of Supply Chai
 
 - :monkey: I am a #rstats or `R` user, owing a lot to my prior experience with the Supply Chain Analytics group at Nordstrom. 
 
-- :bug: I am currently learning to better integrate `tidymodels` into my workflow, model incentive compatibility constraints and create content for a supply chain analytics course. 
+- :bug: I am currently learning to better integrate `tidymodels` into my workflow, model incentive compatibility constraints for agents in a spatial marketplace and create content for a supply chain analytics course. 
 
 - :snail: I am looking for good case studies to teach operations planning and execution, and supply chain analytics. 
 
