@@ -18,3 +18,4 @@ I am Harish Guda. I am an Assistant Professor with the Department of Supply Chai
 
 - :bird: See my webpage harishguda.me/about for more details. 
 
+- :fire: I am passionate about making bike commutes mainstream. 
