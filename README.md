@@ -6,6 +6,6 @@ I am Harish Guda. I am an Assistant Professor with the Department of Supply Chai
 
 - :school_satchel: I also teach courses in Supply Chain Analytics and Operations to full-time MBAs at ASU. 
 
-- :bar_chart: I am a #rstats or `R` user, owing a lot to my prior experience with the Supply Chain Analytics group at Nordstrom. 
+- :bar_chart: I am a #rstats or `R` user, owing a lot to my prior experience in Supply Chain Analytics. 
 
 - :santa: Life mantra: As the wise economists say, internalize your externalities.
