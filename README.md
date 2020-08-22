@@ -20,5 +20,4 @@ I am Harish Guda. I am an Assistant Professor with the Department of Supply Chai
 
 - :bicyclist: I am passionate about making bike commutes mainstream (again). 
 
-- :santa: Life mantra: As the wise economists say,
-> > Internalize your externalities.
+- :santa: Life mantra: As the wise economists say, internalize your externalities.
